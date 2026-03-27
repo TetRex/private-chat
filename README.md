@@ -1,1 +1,1 @@
-Challenge for me if I can write fully working private chat app without using AI. I only allowed to use official docs, guides about fundamental aspects related to this project topic like RSA encryption and etc..
+Challenge for myself if I can write fully working private chat app without using AI. I only allowed to use official docs, guides about fundamental aspects related to this project topic like RSA encryption and etc..
